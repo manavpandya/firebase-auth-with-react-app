@@ -1,3 +1,13 @@
-# firebase-auth-with-react-app
+# Firebase Authentication app with Rect app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-auth-with-react-app)
+## Features developed
+
+- Bootstrap login form
+- React routing
+- Google Authentication
+- Facebook Authentication
+- Twitter Authentication
+
+## Note
+
+- Dont forget to configure your firebae details into the file called `firebaseConfig.js`
